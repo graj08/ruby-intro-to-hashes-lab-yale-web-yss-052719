@@ -4,7 +4,7 @@ my_hash
 end
 
 def actor
-actor = new_hash
+actor = Hash.new
 actor[:name] = "Dwayne The Rock Johnson"
 end
 
